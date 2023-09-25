@@ -1,2 +1,3 @@
 # Exercises
 Repo for mandatory exercises
+Not sure if I uploaded them correctly....
